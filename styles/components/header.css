@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    display: -webkit-flex;
+    /*display: -ms-flex;*/
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+    z-index: 100;
+    /*background-color: blueviolet;*/
+    padding-top: 15px;
+
+}
+.header>.container {
+    display: -webkit-flex;
+    /*display: -ms-flex;*/
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /*background-color: brown;*/
+
+}
